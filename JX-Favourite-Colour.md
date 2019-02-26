@@ -1,6 +1,6 @@
 I'm gonna tell you what my favourite colour is now...
 
-ARE YOU READY?
+### ARE YOU READY?
 
 It is....
 
@@ -11,3 +11,6 @@ Erm...
 It is...
 
 __REDDDDDDDDD!!!!__
+_rogue_
+> hongse!
+- Rot
