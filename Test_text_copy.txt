@@ -1,1 +1,2 @@
 Completely changed the thing.
+Added a line.
